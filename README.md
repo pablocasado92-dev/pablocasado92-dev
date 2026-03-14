@@ -45,6 +45,18 @@ Mi día a día consiste en:
     <img src="https://github.com/user-attachments/assets/bf2e47f4-e647-4a07-adf0-39a70126b823" width="200" alt="git gud" />
   </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+### 📊 Mis Estadísticas en GitHub
+
+<!-- Tarjetas dinámicas de github-readme-stats (Cambia 'jjta20' si tu usuario es distinto) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablocasado92-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae" alt="Mis Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocasado92-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae" alt="Lenguajes más usados" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ### 🔥 Mi stack tecnológico actual (nivel padawan)
 
 ```java
