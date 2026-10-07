@@ -16,12 +16,12 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con sólida base técnica previa en **Sistemas de Telecomunicación e Informática** y experiencia en entornos de alta exigencia (emisión en directo y soporte técnico)[cite: 1].
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con sólida base técnica previa en **Sistemas de Telecomunicación e Informática** y experiencia en entornos de alta exigencia (emisión en directo y soporte técnico).
 
-- 🎓 Actualmente cursando el **2.º curso de DAM**, profundizando en el desarrollo multiplataforma y la arquitectura de software[cite: 1].
+- 🎓 Actualmente cursando el **2.º curso de DAM**, profundizando en el desarrollo multiplataforma y la arquitectura de software.
 - ⚙️ Enfocado en escribir código limpio, uso de estructuras de datos eficientes y buenas prácticas.
-- 🛠️ Interesado en el desarrollo backend/frontend multiplataforma, bases de datos relacionales y redes[cite: 1].
-- 🎯 Buscando oportunidades para integrarme en equipos de desarrollo donde aportar mi enfoque analítico y continuar creciendo profesionalmente[cite: 1].
+- 🛠️ Interesado en el desarrollo backend/frontend multiplataforma, bases de datos relacionales y redes.
+- 🎯 Buscando oportunidades para integrarme en equipos de desarrollo donde aportar mi enfoque analítico y continuar creciendo profesionalmente.
 
 ---
 
@@ -58,5 +58,5 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con sóli
 ---
 
 <p align="center">
-  <i>"El código limpio siempre parece que ha sido escrito por alguien a quien le importa."</i>
+  <i>«La inteligencia es la habilidad de evitar hacer trabajo y conseguir que el trabajo se haga». - Linus Torvalds"</i>
 </p>
